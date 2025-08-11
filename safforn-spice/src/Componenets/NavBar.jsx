@@ -5,8 +5,8 @@ function NavBar() {
   return (
     <>
         <header>
-        <div class="logo">
-            <img src="public/Pictures/logo.avif" alt="Restaurant Logo"></img>
+        <div className="logo">
+            <img src="/Pictures/logo.avif" alt="Restaurant Logo"></img>
             <h1>Saffron Spice</h1>
         </div>
         <nav>
