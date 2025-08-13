@@ -1,4 +1,10 @@
-
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
 header {
     background-color: #333;
@@ -116,7 +122,3 @@ main {
 .title {
     font-size: 1.05em;
 }
- .content p a{
-    color: #ffa500; 
-    text-decoration: none;
- }

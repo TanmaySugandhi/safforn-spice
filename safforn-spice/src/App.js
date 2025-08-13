@@ -6,9 +6,12 @@ import Main from './Componenets/Main.jsx';
 function App() {
   return (
     <div className="App">
+      <main>
       <NavBar />
       <Main />
+      </main>    
     </div>
+    
   );
 }
 
